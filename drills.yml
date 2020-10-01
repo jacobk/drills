@@ -1,6 +1,6 @@
 - key: shot-shapes
   display_name: Shot shapes
-  image: 'https://www.example.com/images/shot_shapes.png'
+  image: 'https://raw.githubusercontent.com/jacobk/drills/main/images/shot-shapes.png'
   variations:
     - Short
     - Medium
@@ -22,7 +22,7 @@
     - inspel
 - key: accuracy-practice
   display_name: Träffsäkerhet
-  image: 'https://www.example.com/images/shot_shapes.png'
+  image: 'https://raw.githubusercontent.com/jacobk/drills/main/images/accuracy-practice.png'
   variations:
     - Kort
     - Medium
