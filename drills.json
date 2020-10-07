@@ -1,58 +1,64 @@
 {
-    "drills": [
+  "drills": [
+    {
+      "key": "shot-shapes",
+      "display_name": "Shot shapes",
+      "image": "https://raw.githubusercontent.com/jacobk/drills/main/images/shot-shapes.png",
+      "variations": [
+        "Kort",
+        "Medium",
+        "Lång"
+      ],
+      "equipment": [
+        "5st Discar",
+        "4st Koner"
+      ],
+      "description": [
+        "Sätt koner på valfrit avstånd med ca 5 meter mellanrum",
+        "Väl en kastpunk på önskat avstånd mitt emot de två konerna i mitten",
+        "Kasta från öger till vänster och försöka landa alla discar på samma plats i mitten",
+        "Kasta först höger om yttersta konen, sen mellan nästa två koner osv."
+      ],
+      "links": [
         {
-           "key": "shot-shapes",
-           "display_name": "Shot shapes",
-           "image": "https://raw.githubusercontent.com/jacobk/drills/main/images/shot-shapes.png",
-           "variations": [
-              "Kort",
-              "Medium",
-              "Lång"
-           ],
-           "equipment": [
-              "5st Discar",
-              "4st Koner"
-           ],
-           "description": [
-              "Sätt koner på valfrit avstånd med ca 5 meter mellanrum",
-              "Väl en kastpunk på önskat avstånd mitt emot de två konerna i mitten",
-              "Kasta från öger till vänster och försöka landa alla discar på samma plats i mitten",
-              "Kasta först höger om yttersta konen, sen mellan nästa två koner osv."
-           ],
-           "länkar": [
-              "https://www.youtube.com/watch?v=y5fjUAstaiw"
-           ],
-           "tags": [
-              "träffsäkerhet",
-              "inspel"
-           ]
-        },
-        {
-           "key": "accuracy-practice",
-           "display_name": "Träffsäkerhet",
-           "image": "https://raw.githubusercontent.com/jacobk/drills/main/images/accuracy-practice.png",
-           "variations": [
-              "Kort",
-              "Medium",
-              "Lång"
-           ],
-           "equipment": [
-              "5st Discar",
-              "1 Kon",
-              "Måttband*",
-              "24 Flaggor*"
-           ],
-           "description": [
-              "Udisc accuracy practice"
-           ],
-           "länkar": [
-              "https://udisc.com/blog/post/new-udisc-feature-build-your-accuracy-love-doing-it"
-           ],
-           "tags": [
-              "inspel",
-              "träffsäkerhet",
-              "utkast"
-           ]
+          "title": "Youtube",
+          "url": "https://udisc.com/blog/post/new-udisc-feature-build-your-accuracy-love-doing-it"
         }
-     ]
+      ],
+      "tags": [
+        "träffsäkerhet",
+        "inspel"
+      ]
+    },
+    {
+      "key": "accuracy-practice",
+      "display_name": "Träffsäkerhet",
+      "image": "https://raw.githubusercontent.com/jacobk/drills/main/images/accuracy-practice.png",
+      "variations": [
+        "Kort",
+        "Medium",
+        "Lång"
+      ],
+      "equipment": [
+        "5st Discar",
+        "1 Kon",
+        "Måttband*",
+        "24 Flaggor*"
+      ],
+      "description": [
+        "Udisc accuracy practice"
+      ],
+      "links": [
+        {
+          "title": "Youtube",
+          "url": "https://udisc.com/blog/post/new-udisc-feature-build-your-accuracy-love-doing-it"
+        }
+      ],
+      "tags": [
+        "inspel",
+        "träffsäkerhet",
+        "utkast"
+      ]
+    }
+  ]
 }
